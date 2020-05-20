@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<symbols>
+  <files>
+    <file id="1" name="C:\Users\468110\Downloads\Vspercmd\WindowsFormsApplication1\WindowsFormsApplication1\Form1.Designer.cs" language="C#" checksumAlgorithm="SHA1" checksum="23-84-85-1D-98-23-9A-8F-1D-6F-66-70-87-35-79-A5-E6-8A-FA-E1" />
+    <file id="2" name="C:\Users\468110\Downloads\Vspercmd\WindowsFormsApplication1\WindowsFormsApplication1\Form1.cs" language="C#" checksumAlgorithm="SHA1" checksum="BF-E0-C0-06-D7-D4-B5-46-AE-68-21-15-8E-F2-00-0F-AE-82-13-31" />
+    <file id="3" name="C:\Users\468110\Downloads\Vspercmd\WindowsFormsApplication1\WindowsFormsApplication1\Program.cs" language="C#" checksumAlgorithm="SHA1" checksum="0B-E2-20-18-24-55-7F-0C-DE-15-A0-82-AA-D2-FB-D3-22-36-0C-26" />
+    <file id="4" name="C:\Users\468110\Downloads\Vspercmd\WindowsFormsApplication1\WindowsFormsApplication1\Properties\Resources.Designer.cs" language="C#" checksumAlgorithm="SHA1" checksum="9B-8F-21-AD-0F-4B-C9-49-32-47-4C-8B-80-63-75-50-B7-45-31-93" />
+    <file id="5" name="C:\Users\468110\Downloads\Vspercmd\WindowsFormsApplication1\WindowsFormsApplication1\Properties\Settings.Designer.cs" language="C#" checksumAlgorithm="SHA1" checksum="75-71-14-61-1F-38-B2-76-CF-79-E6-DF-63-BD-B4-BA-18-76-95-C8" />
+  </files>
+  <entryPoint declaringType="WindowsFormsApplication1.Program" methodName="Main" />
+  <methods>
+    <method containingType="WindowsFormsApplication1.Form1" name=".ctor">
+      <customDebugInfo>
+        <using>
+          <namespace usingCount="0" />
+          <namespace usingCount="8" />
+        </using>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="8" startColumn="9" endLine="8" endColumn="68" document="1" />
+        <entry offset="0x7" startLine="15" startColumn="9" endLine="15" endColumn="23" document="2" />
+        <entry offset="0xe" startLine="16" startColumn="9" endLine="16" endColumn="10" document="2" />
+        <entry offset="0xf" startLine="17" startColumn="13" endLine="17" endColumn="35" document="2" />
+        <entry offset="0x16" startLine="18" startColumn="9" endLine="18" endColumn="10" document="2" />
+      </sequencePoints>
+      <scope startOffset="0x0" endOffset="0x17">
+        <namespace name="System" />
+        <namespace name="System.Collections.Generic" />
+        <namespace name="System.ComponentModel" />
+        <namespace name="System.Data" />
+        <namespace name="System.Drawing" />
+        <namespace name="System.Linq" />
+        <namespace name="System.Text" />
+        <namespace name="System.Windows.Forms" />
+      </scope>
+    </method>
+    <method containingType="WindowsFormsApplication1.Form1" name="button1_Click" parameterNames="sender, e">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Form1" methodName=".ctor" />
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="21" startColumn="9" endLine="21" endColumn="10" document="2" />
+        <entry offset="0x1" startLine="22" startColumn="13" endLine="22" endColumn="75" document="2" />
+        <entry offset="0x21" startLine="23" startColumn="9" endLine="23" endColumn="10" document="2" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Form1" name="button1_Click_1" parameterNames="sender, e">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Form1" methodName=".ctor" />
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="26" startColumn="9" endLine="26" endColumn="10" document="2" />
+        <entry offset="0x1" startLine="27" startColumn="13" endLine="27" endColumn="76" document="2" />
+        <entry offset="0x21" startLine="29" startColumn="9" endLine="29" endColumn="10" document="2" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Form1" name="button2_Click_3" parameterNames="sender, e">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Form1" methodName=".ctor" />
+        <encLocalSlotMap>
+          <slot kind="21" offset="0" />
+        </encLocalSlotMap>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="32" startColumn="9" endLine="32" endColumn="10" document="2" />
+        <entry offset="0x1" startLine="33" startColumn="13" endLine="33" endColumn="76" document="2" />
+        <entry offset="0x21" startLine="34" startColumn="13" endLine="34" endColumn="25" document="2" />
+        <entry offset="0x25" startLine="35" startColumn="9" endLine="35" endColumn="10" document="2" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Form1" name="button2_Click_4" parameterNames="sender, e">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Form1" methodName=".ctor" />
+        <encLocalSlotMap>
+          <slot kind="21" offset="0" />
+        </encLocalSlotMap>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="39" startColumn="9" endLine="39" endColumn="10" document="2" />
+        <entry offset="0x1" startLine="40" startColumn="13" endLine="40" endColumn="76" document="2" />
+        <entry offset="0x21" startLine="41" startColumn="13" endLine="41" endColumn="25" document="2" />
+        <entry offset="0x25" startLine="42" startColumn="9" endLine="42" endColumn="10" document="2" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Form1" name="Dispose" parameterNames="disposing">
+      <customDebugInfo>
+        <using>
+          <namespace usingCount="0" />
+          <namespace usingCount="0" />
+        </using>
+        <encLocalSlotMap>
+          <slot kind="1" offset="15" />
+        </encLocalSlotMap>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="15" startColumn="9" endLine="15" endColumn="10" document="1" />
+        <entry offset="0x1" startLine="16" startColumn="13" endLine="16" endColumn="51" document="1" />
+        <entry offset="0x11" hidden="true" document="1" />
+        <entry offset="0x14" startLine="17" startColumn="13" endLine="17" endColumn="14" document="1" />
+        <entry offset="0x15" startLine="18" startColumn="17" endLine="18" endColumn="38" document="1" />
+        <entry offset="0x21" startLine="19" startColumn="13" endLine="19" endColumn="14" document="1" />
+        <entry offset="0x22" startLine="20" startColumn="13" endLine="20" endColumn="37" document="1" />
+        <entry offset="0x2a" startLine="21" startColumn="9" endLine="21" endColumn="10" document="1" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Form1" name="InitializeComponent">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Form1" methodName="Dispose" parameterNames="disposing" />
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="30" startColumn="9" endLine="30" endColumn="10" document="1" />
+        <entry offset="0x1" startLine="31" startColumn="13" endLine="31" endColumn="64" document="1" />
+        <entry offset="0xc" startLine="32" startColumn="13" endLine="32" endColumn="60" document="1" />
+        <entry offset="0x17" startLine="33" startColumn="13" endLine="33" endColumn="63" document="1" />
+        <entry offset="0x22" startLine="34" startColumn="13" endLine="34" endColumn="62" document="1" />
+        <entry offset="0x2d" startLine="35" startColumn="13" endLine="35" endColumn="34" document="1" />
+        <entry offset="0x34" startLine="39" startColumn="13" endLine="39" endColumn="74" document="1" />
+        <entry offset="0x49" startLine="40" startColumn="13" endLine="40" endColumn="47" document="1" />
+        <entry offset="0x5a" startLine="41" startColumn="13" endLine="41" endColumn="67" document="1" />
+        <entry offset="0x6f" startLine="42" startColumn="13" endLine="42" endColumn="41" document="1" />
+        <entry offset="0x7c" startLine="43" startColumn="13" endLine="43" endColumn="44" document="1" />
+        <entry offset="0x8d" startLine="44" startColumn="13" endLine="44" endColumn="59" document="1" />
+        <entry offset="0x9a" startLine="45" startColumn="13" endLine="45" endColumn="81" document="1" />
+        <entry offset="0xb2" startLine="49" startColumn="13" endLine="49" endColumn="41" document="1" />
+        <entry offset="0xbf" startLine="50" startColumn="13" endLine="50" endColumn="69" document="1" />
+        <entry offset="0xd4" startLine="51" startColumn="13" endLine="51" endColumn="41" document="1" />
+        <entry offset="0xe5" startLine="52" startColumn="13" endLine="52" endColumn="64" document="1" />
+        <entry offset="0xfa" startLine="53" startColumn="13" endLine="53" endColumn="38" document="1" />
+        <entry offset="0x107" startLine="54" startColumn="13" endLine="54" endColumn="46" document="1" />
+        <entry offset="0x118" startLine="58" startColumn="13" endLine="58" endColumn="71" document="1" />
+        <entry offset="0x12d" startLine="59" startColumn="13" endLine="59" endColumn="43" document="1" />
+        <entry offset="0x13e" startLine="60" startColumn="13" endLine="60" endColumn="66" document="1" />
+        <entry offset="0x153" startLine="61" startColumn="13" endLine="61" endColumn="39" document="1" />
+        <entry offset="0x160" startLine="65" startColumn="13" endLine="65" endColumn="72" document="1" />
+        <entry offset="0x178" startLine="66" startColumn="13" endLine="66" endColumn="43" document="1" />
+        <entry offset="0x189" startLine="67" startColumn="13" endLine="67" endColumn="65" document="1" />
+        <entry offset="0x19e" startLine="68" startColumn="13" endLine="68" endColumn="39" document="1" />
+        <entry offset="0x1ab" startLine="69" startColumn="13" endLine="69" endColumn="43" document="1" />
+        <entry offset="0x1bc" startLine="70" startColumn="13" endLine="70" endColumn="57" document="1" />
+        <entry offset="0x1c9" startLine="71" startColumn="13" endLine="71" endColumn="81" document="1" />
+        <entry offset="0x1e1" startLine="75" startColumn="13" endLine="75" endColumn="74" document="1" />
+        <entry offset="0x1f7" startLine="76" startColumn="13" endLine="76" endColumn="74" document="1" />
+        <entry offset="0x1ff" startLine="77" startColumn="13" endLine="77" endColumn="65" document="1" />
+        <entry offset="0x215" startLine="78" startColumn="13" endLine="78" endColumn="45" document="1" />
+        <entry offset="0x227" startLine="79" startColumn="13" endLine="79" endColumn="45" document="1" />
+        <entry offset="0x239" startLine="80" startColumn="13" endLine="80" endColumn="44" document="1" />
+        <entry offset="0x24b" startLine="81" startColumn="13" endLine="81" endColumn="47" document="1" />
+        <entry offset="0x25d" startLine="82" startColumn="13" endLine="82" endColumn="33" document="1" />
+        <entry offset="0x269" startLine="83" startColumn="13" endLine="83" endColumn="33" document="1" />
+        <entry offset="0x275" startLine="84" startColumn="13" endLine="84" endColumn="38" document="1" />
+        <entry offset="0x27d" startLine="85" startColumn="13" endLine="85" endColumn="34" document="1" />
+        <entry offset="0x284" startLine="87" startColumn="9" endLine="87" endColumn="10" document="1" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Program" name="Main">
+      <customDebugInfo>
+        <using>
+          <namespace usingCount="0" />
+          <namespace usingCount="4" />
+        </using>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="15" startColumn="9" endLine="15" endColumn="10" document="3" />
+        <entry offset="0x1" startLine="16" startColumn="13" endLine="16" endColumn="46" document="3" />
+        <entry offset="0x7" startLine="17" startColumn="13" endLine="17" endColumn="66" document="3" />
+        <entry offset="0xe" startLine="18" startColumn="13" endLine="18" endColumn="42" document="3" />
+        <entry offset="0x19" startLine="19" startColumn="9" endLine="19" endColumn="10" document="3" />
+      </sequencePoints>
+      <scope startOffset="0x0" endOffset="0x1a">
+        <namespace name="System" />
+        <namespace name="System.Collections.Generic" />
+        <namespace name="System.Linq" />
+        <namespace name="System.Windows.Forms" />
+      </scope>
+    </method>
+    <method containingType="WindowsFormsApplication1.Properties.Resources" name=".ctor">
+      <customDebugInfo>
+        <using>
+          <namespace usingCount="0" />
+          <namespace usingCount="0" />
+          <namespace usingCount="0" />
+        </using>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="33" startColumn="9" endLine="33" endColumn="29" document="4" />
+        <entry offset="0x7" startLine="34" startColumn="9" endLine="34" endColumn="10" document="4" />
+        <entry offset="0x8" startLine="35" startColumn="9" endLine="35" endColumn="10" document="4" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Properties.Resources" name="get_ResourceManager">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Properties.Resources" methodName=".ctor" />
+        <encLocalSlotMap>
+          <slot kind="1" offset="19" />
+          <slot kind="0" offset="127" />
+          <slot kind="21" offset="0" />
+        </encLocalSlotMap>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="44" startColumn="13" endLine="44" endColumn="14" document="4" />
+        <entry offset="0x1" startLine="45" startColumn="17" endLine="45" endColumn="43" document="4" />
+        <entry offset="0xa" hidden="true" document="4" />
+        <entry offset="0xd" startLine="46" startColumn="17" endLine="46" endColumn="18" document="4" />
+        <entry offset="0xe" startLine="47" startColumn="21" endLine="47" endColumn="191" document="4" />
+        <entry offset="0x28" startLine="48" startColumn="21" endLine="48" endColumn="40" document="4" />
+        <entry offset="0x2e" startLine="49" startColumn="17" endLine="49" endColumn="18" document="4" />
+        <entry offset="0x2f" startLine="50" startColumn="17" endLine="50" endColumn="36" document="4" />
+        <entry offset="0x37" startLine="51" startColumn="13" endLine="51" endColumn="14" document="4" />
+      </sequencePoints>
+      <scope startOffset="0x0" endOffset="0x39">
+        <scope startOffset="0xd" endOffset="0x2f">
+          <local name="temp" il_index="1" il_start="0xd" il_end="0x2f" attributes="0" />
+        </scope>
+      </scope>
+    </method>
+    <method containingType="WindowsFormsApplication1.Properties.Resources" name="get_Culture">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Properties.Resources" methodName=".ctor" />
+        <encLocalSlotMap>
+          <slot kind="21" offset="0" />
+        </encLocalSlotMap>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="62" startColumn="13" endLine="62" endColumn="14" document="4" />
+        <entry offset="0x1" startLine="63" startColumn="17" endLine="63" endColumn="40" document="4" />
+        <entry offset="0x9" startLine="64" startColumn="13" endLine="64" endColumn="14" document="4" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Properties.Resources" name="set_Culture" parameterNames="value">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Properties.Resources" methodName=".ctor" />
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="66" startColumn="13" endLine="66" endColumn="14" document="4" />
+        <entry offset="0x1" startLine="67" startColumn="17" endLine="67" endColumn="41" document="4" />
+        <entry offset="0x7" startLine="68" startColumn="13" endLine="68" endColumn="14" document="4" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Properties.Settings" name="get_Default">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Properties.Resources" methodName=".ctor" />
+        <encLocalSlotMap>
+          <slot kind="21" offset="0" />
+        </encLocalSlotMap>
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="25" startColumn="13" endLine="25" endColumn="14" document="5" />
+        <entry offset="0x1" startLine="26" startColumn="17" endLine="26" endColumn="40" document="5" />
+        <entry offset="0x9" startLine="27" startColumn="13" endLine="27" endColumn="14" document="5" />
+      </sequencePoints>
+    </method>
+    <method containingType="WindowsFormsApplication1.Properties.Settings" name=".cctor">
+      <customDebugInfo>
+        <forward declaringType="WindowsFormsApplication1.Properties.Resources" methodName=".ctor" />
+      </customDebugInfo>
+      <sequencePoints>
+        <entry offset="0x0" startLine="20" startColumn="9" endLine="20" endColumn="147" document="5" />
+      </sequencePoints>
+    </method>
+  </methods>
+  <method-spans>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName=".ctor">
+      <document startLine="8" endLine="8" />
+      <document startLine="15" endLine="18" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button1_Click" parameterNames="sender, e">
+      <document startLine="21" endLine="23" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button1_Click_1" parameterNames="sender, e">
+      <document startLine="26" endLine="29" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button2_Click_3" parameterNames="sender, e">
+      <document startLine="32" endLine="35" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button2_Click_4" parameterNames="sender, e">
+      <document startLine="39" endLine="42" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="Dispose" parameterNames="disposing">
+      <document startLine="15" endLine="21" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="InitializeComponent">
+      <document startLine="30" endLine="87" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName=".ctor">
+      <document startLine="8" endLine="8" />
+      <document startLine="15" endLine="18" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button1_Click" parameterNames="sender, e">
+      <document startLine="21" endLine="23" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button1_Click_1" parameterNames="sender, e">
+      <document startLine="26" endLine="29" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button2_Click_3" parameterNames="sender, e">
+      <document startLine="32" endLine="35" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Form1" methodName="button2_Click_4" parameterNames="sender, e">
+      <document startLine="39" endLine="42" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Program" methodName="Main">
+      <document startLine="15" endLine="19" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Properties.Resources" methodName=".ctor">
+      <document startLine="33" endLine="35" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Properties.Resources" methodName="get_ResourceManager">
+      <document startLine="44" endLine="51" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Properties.Resources" methodName="get_Culture">
+      <document startLine="62" endLine="64" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Properties.Resources" methodName="set_Culture" parameterNames="value">
+      <document startLine="66" endLine="68" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Properties.Settings" methodName="get_Default">
+      <document startLine="25" endLine="27" />
+    </method>
+    <method declaringType="WindowsFormsApplication1.Properties.Settings" methodName=".cctor">
+      <document startLine="20" endLine="20" />
+    </method>
+  </method-spans>
+</symbols>
